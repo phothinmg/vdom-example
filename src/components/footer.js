@@ -19,7 +19,7 @@ const Footer = ce("footer", {
         },
         ce("a", {
           attr: {
-            href: "http://github.com/emareg/classlesscss",
+            href: "https://github.com/phothinmg/vdom-example",
           },
           children: [
             {
