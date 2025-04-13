@@ -1,21 +1,21 @@
 4939
-55/home/ptm/Documents/github-repo/vdom-example/.gitignore1744577942832339963 0
+55/home/ptm/Documents/github-repo/vdom-example/.gitignore1744578635391119434 0
+60/home/ptm/Documents/github-repo/vdom-example/dist/index.html1744578796111643265 0
 78/home/ptm/Documents/github-repo/vdom-example/dist/vdom-example.76139982.js.map1744577971310430473 0
 74/home/ptm/Documents/github-repo/vdom-example/dist/vdom-example.76139982.js1744577971300430665 0
-60/home/ptm/Documents/github-repo/vdom-example/dist/index.html1744577971300430665 0
 78/home/ptm/Documents/github-repo/vdom-example/dist/vdom-example.1fcc916e.js.map1744576177606989386 0
 62/home/ptm/Documents/github-repo/vdom-example/package-lock.json1744577802892336238 0
-146/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.76139982.js.map1744578212218819369 0
-142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.76139982.js1744578212218819369 0
-142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.1fcc916e.js1744578212235819042 0
+146/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.76139982.js.map1744578310970929213 0
+142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.76139982.js1744578310970929213 0
+142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.1fcc916e.js1744578310976929098 0
 128/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.gitignore1744577974821363271 0
 137/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/COMMIT_EDITMSG1744577975862514673 0
-133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/FETCH_HEAD1744578212144820785 0
+133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/FETCH_HEAD1744578310891930725 0
 147/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/refs/heads/gh-pages1744577975863343329 0
 138/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/refs/heads1744577975863343329 1
 140/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/refs/remotes1744577974815683229 1
 147/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/remotes/origin/HEAD1744577974815683229 0
-142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/remotes/origin1744578217024727380 1
+142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/remotes/origin1744578312287904003 1
 135/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/remotes1744577974815363386 1
 132/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/tags1744577974261373989 1
 142/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/heads/gh-pages1744577975863343329 0
@@ -28,11 +28,11 @@
 133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/e71744578212033822909 1
 172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/58/caf00cb4054e2bc1a199c681abb07546c905e01744577975862514673 0
 172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/d9/999e4f89d2aeb15734fcd901bbfb55f3f9ada01744578212031822948 0
-172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/d9/d2837542ed4d2675339dbf7e027c255ea252471744578212267818431 0
+172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/d9/d2837542ed4d2675339dbf7e027c255ea252471744578311006928524 0
 133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/d91744578212032822929 1
 135/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/info1744577973470163229 1
 185/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/pack/pack-6471ed44d9947b8536bd81bb7446f1e797ddd30a.idx1744577974668366202 0
-130/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects1744578212149820689 1
+130/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects1744578310918930208 1
 134/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/description1744577973466389207 0
 135/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/info/exclude1744577973466389207 0
 146/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/hooks/pre-rebase.sample1744577973466389207 0
@@ -125,7 +125,7 @@
 78/home/ptm/Documents/github-repo/vdom-example/node_modules/reusify/package.json1744577802149668325 0
 73/home/ptm/Documents/github-repo/vdom-example/node_modules/reusify/test.js1744577802134668612 0
 82/home/ptm/Documents/github-repo/vdom-example/node_modules/reusify/eslint.config.js1744577802112669033 0
-122/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git1744578212281818163 1
+122/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git1744578311013928390 1
 65/home/ptm/Documents/github-repo/vdom-example/node_modules/reusify1744577802157668171 1
 80/home/ptm/Documents/github-repo/vdom-example/node_modules/run-parallel/README.md1744577802111669052 0
 83/home/ptm/Documents/github-repo/vdom-example/node_modules/run-parallel/package.json1744577802102669224 0
@@ -348,7 +348,7 @@
 101/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/dependencies/lz4/lib/lz4frame_static.h1744571929367968368 0
 113/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/dependencies/lz4/lib/dll/example/fullbench-dll.sln1744571929416355766 0
 105/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/dependencies/lz4/lib/dll/example/README.md1744571929410290286 0
-128/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/index1744578212267818431 0
+128/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/index1744578311006928524 0
 154/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/hooks/sendemail-validate.sample1744577973465987656 0
 104/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/dependencies/lz4/lib/dll/example/Makefile1744571929000297857 0
 95/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/dependencies/lz4/lib/dll/example1744571929431648811 1
@@ -438,7 +438,7 @@
 92/home/ptm/Documents/github-repo/vdom-example/node_modules/dom-serializer/lib/foreignNames.js1744571927819319666 0
 98/home/ptm/Documents/github-repo/vdom-example/node_modules/dom-serializer/lib/esm/foreignNames.d.ts1744571928896299777 0
 76/home/ptm/Documents/github-repo/vdom-example/node_modules/dom-serializer/lib1744571928924299261 1
-172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/59/7d04cdea5290a1e35aaa5584934b31d6820c231744578212266818450 0
+172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/59/7d04cdea5290a1e35aaa5584934b31d6820c231744578311006928524 0
 80/home/ptm/Documents/github-repo/vdom-example/node_modules/dom-serializer/LICENSE1744571927725321402 0
 81/home/ptm/Documents/github-repo/vdom-example/node_modules/entities/lib/index.d.ts1744571929252293204 0
 82/home/ptm/Documents/github-repo/vdom-example/node_modules/entities/lib/encode.d.ts1744571929248293277 0
@@ -552,7 +552,7 @@
 91/home/ptm/Documents/github-repo/vdom-example/node_modules/domelementtype/lib/esm/index.d.ts1744571928855300535 0
 86/home/ptm/Documents/github-repo/vdom-example/node_modules/fast-glob/out/types/index.js1744577802184667654 0
 95/home/ptm/Documents/github-repo/vdom-example/node_modules/domelementtype/lib/esm/index.d.ts.map1744571927867318779 0
-133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/heads1744578212205178855 1
+133/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/refs/heads1744578310958731175 1
 93/home/ptm/Documents/github-repo/vdom-example/node_modules/domelementtype/lib/esm/package.json1744571927837319334 0
 89/home/ptm/Documents/github-repo/vdom-example/node_modules/domelementtype/lib/esm/index.js1744571927768320608 0
 80/home/ptm/Documents/github-repo/vdom-example/node_modules/domelementtype/lib/esm1744571927916317875 1
@@ -673,7 +673,7 @@
 79/home/ptm/Documents/github-repo/vdom-example/node_modules/argparse/CHANGELOG.md1744571928867300313 0
 79/home/ptm/Documents/github-repo/vdom-example/node_modules/argparse/package.json1744571928861300424 0
 82/home/ptm/Documents/github-repo/vdom-example/node_modules/argparse/lib/textwrap.js1744571928850300627 0
-117/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git1744578212216819407 1
+117/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git1744578310969929232 1
 70/home/ptm/Documents/github-repo/vdom-example/node_modules/argparse/lib1744571927899318189 1
 66/home/ptm/Documents/github-repo/vdom-example/node_modules/argparse1744571928867300313 1
 68/home/ptm/Documents/github-repo/vdom-example/node_modules/is-extglob1744571927754320866 1
@@ -778,7 +778,7 @@
 85/home/ptm/Documents/github-repo/vdom-example/node_modules/cosmiconfig/dist/loaders.js1744571928850300627 0
 88/home/ptm/Documents/github-repo/vdom-example/node_modules/fs-extra/lib/ensure/symlink.js1744577802245925323 0
 90/home/ptm/Documents/github-repo/vdom-example/node_modules/cosmiconfig/dist/ExplorerBase.js1744571927824319574 0
-127/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/HEAD1744578212197170112 0
+127/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/HEAD1744578310949750027 0
 86/home/ptm/Documents/github-repo/vdom-example/node_modules/cosmiconfig/dist/defaults.js1744571927790320201 0
 74/home/ptm/Documents/github-repo/vdom-example/node_modules/cosmiconfig/dist1744571929196294237 1
 77/home/ptm/Documents/github-repo/vdom-example/node_modules/cosmiconfig/LICENSE1744571927728321346 0
@@ -2456,7 +2456,7 @@
 111/home/ptm/Documents/github-repo/vdom-example/node_modules/caniuse-lite/data/features/css-hanging-punctuation.js1744571929366291098 0
 105/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/resolver-default/src/DefaultResolver.js1744571927799320035 0
 89/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/optimizer-image/LICENSE1744571927731321291 0
-172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/8c/dfebfb2d24e4cf964d452122cd22716d4bd5661744578212266818450 0
+172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/8c/dfebfb2d24e4cf964d452122cd22716d4bd5661744578311006928524 0
 88/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/core/src/AssetGraph.js1744571929198294201 0
 74/home/ptm/Documents/github-repo/vdom-example/node_modules/lmdb/src/txn.cpp1744571929345291486 0
 80/home/ptm/Documents/github-repo/vdom-example/node_modules/escalade/sync/index.js1744571927785320294 0
@@ -2481,7 +2481,7 @@
 99/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/utils/src/generateBuildMetrics.js1744571928962298559 0
 109/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/error-overlay/src/components/Collapsible.js1744571927829319481 0
 85/home/ptm/Documents/github-repo/vdom-example/node_modules/commander/typings/esm.d.mts1744571928958298633 0
-129/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/config1744578212281818163 0
+129/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/config1744578311013928390 0
 89/home/ptm/Documents/github-repo/vdom-example/node_modules/caniuse-lite/data/regions/IL.js1744571929486114092 0
 94/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/src/_async_iterator.mjs1744571929562287479 0
 99/home/ptm/Documents/github-repo/vdom-example/node_modules/fast-glob/out/providers/filters/deep.d.ts1744577802250172711 0
@@ -2520,7 +2520,7 @@
 82/home/ptm/Documents/github-repo/vdom-example/node_modules/dom-serializer/README.md1744571928874300184 0
 120/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/core/test/fixtures/custom-format-mismatch/package.json1744571929450303771 0
 107/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/cjs/_possible_constructor_return.cjs1744571929226293684 0
-146/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.1fcc916e.js.map1744578212261818546 0
+146/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/vdom-example.1fcc916e.js.map1744578311003928581 0
 108/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers1744571927765320663 1
 88/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/utils/lib/index.js.map1744571929408290322 0
 103/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js1744571927766320645 0
@@ -2733,7 +2733,7 @@
 97/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/packager-raw/lib/RawPackager.js1744571927766320645 0
 86/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/package-manager/test1744571929196294237 1
 80/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/config-default1744571927801319998 1
-59/home/ptm/Documents/github-repo/vdom-example/src/index.html1744569315634691685 0
+59/home/ptm/Documents/github-repo/vdom-example/src/index.html1744578754315845174 0
 87/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/workers/src/Worker.js1744571929208294016 0
 96/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/packager-js/lib/DevPackager.js1744571927864318835 0
 98/home/ptm/Documents/github-repo/vdom-example/node_modules/fast-glob/out/providers/filters/error.js1744577802174667846 0
@@ -2809,7 +2809,7 @@
 109/home/ptm/Documents/github-repo/vdom-example/node_modules/@babel/helper-validator-identifier/lib/index.js.map1744571927854319020 0
 91/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_apply_decs_2203_r1744571929365771456 1
 118/home/ptm/Documents/github-repo/vdom-example/node_modules/htmlnano/docs/versioned_sidebars/version-1.1.1-sidebars.json1744571929254169520 0
-172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/70/af4a765a2cd20be25ae3c4e2c504ce5030fa731744578212267818431 0
+172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/70/af4a765a2cd20be25ae3c4e2c504ce5030fa731744578311006928524 0
 88/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/optimizer-htmlnano/lib1744571927835319371 1
 105/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_object_without_properties_loose1744571929480750585 1
 107/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/core/test/fixtures/custom-format-mismatch1744571929449758309 1
@@ -2876,7 +2876,7 @@
 101/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/types-internal/lib/SemverRange.d.ts1744571928989298060 0
 81/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/packager-js/lib1744571928977298282 1
 97/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/runtime-browser-hmr/lib/loaders1744571927766320645 1
-128/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/index.html1744578212218819369 0
+128/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/index.html1744578310970929213 0
 156/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/refs/remotes/origin/gh-pages1744577978026301931 0
 99/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/optimizer-swc/lib/SwcOptimizer.js1744571927766320645 0
 67/home/ptm/Documents/github-repo/vdom-example/node_modules/@mischnic1744571922579263641 1
@@ -3743,7 +3743,7 @@
 89/home/ptm/Documents/github-repo/vdom-example/node_modules/htmlnano/docs/package-lock.json1744571929251293222 0
 101/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/core/src/requests/PackageRequest.js1744571929347291449 0
 113/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/cjs/_class_check_private_static_access.cjs1744571928930299150 0
-132/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/HEAD1744578212205060693 0
+132/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/logs/HEAD1744578310958618637 0
 104/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/cjs/_class_private_field_init.cjs1744571928959298614 0
 73/home/ptm/Documents/github-repo/vdom-example/node_modules/async/sortBy.js1744577802285764189 0
 109/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/cjs/_class_private_field_loose_key.cjs1744571928966298485 0
@@ -4166,7 +4166,7 @@
 103/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_iterable_to_array_limit_loose1744571929473961665 1
 97/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_iterable_to_array_limit1744571929474818630 1
 90/home/ptm/Documents/github-repo/vdom-example/node_modules/posthtml/node_modules/domhandler1744571927897318226 1
-49/home/ptm/Documents/github-repo/vdom-example/dist1744577971312430436 1
+49/home/ptm/Documents/github-repo/vdom-example/dist1744578796113643227 1
 110/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/esm/_object_without_properties_loose.js1744571929337291634 0
 90/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_jsx/package.json1744571929476966049 0
 83/home/ptm/Documents/github-repo/vdom-example/node_modules/@parcel/core/src/index.js1744571929312292095 0
@@ -4781,7 +4781,7 @@
 84/home/ptm/Documents/github-repo/vdom-example/node_modules/semver/functions/coerce.js1744571927814319758 0
 87/home/ptm/Documents/github-repo/vdom-example/node_modules/filenamify/filenamify-path.js1744577802115668975 0
 81/home/ptm/Documents/github-repo/vdom-example/node_modules/semver/functions/gte.js1744571928872300221 0
-172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/cc/22ec12309cc5635e3feacaae48d971c345fbc41744578212267818431 0
+172/home/ptm/Documents/github-repo/vdom-example/node_modules/.cache/gh-pages/https!github.com!phothinmg!vdom-example.git/.git/objects/cc/22ec12309cc5635e3feacaae48d971c345fbc41744578311006928524 0
 93/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/_/_non_iterable_spread1744571929478732497 1
 81/home/ptm/Documents/github-repo/vdom-example/node_modules/semver/functions/lte.js1744571928951298762 0
 89/home/ptm/Documents/github-repo/vdom-example/node_modules/@swc/helpers/esm/_instanceof.js1744571929327291818 0
